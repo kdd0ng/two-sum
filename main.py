@@ -10,7 +10,6 @@ def twoSum(nums: List[int], target: int) -> List[int]:
 
         nums_list[num] = index
         
-    #return
 # nums = [2,7,11,15]
 # target = 18
 # result = twoSum(nums, target)
